@@ -12,6 +12,6 @@ public class HomApi
     @GetMapping
     public String home()
     {
-        return "Hello, world!-";
+        return "Hello, world!";
     }
 }
